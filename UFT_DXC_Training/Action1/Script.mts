@@ -1,2 +1,2 @@
 ﻿Dim MyVar
-MyVar = MsgBox ("Hello World!", 65, "MsgBox Example")
+MyVar = MsgBox ("My First UFT Page!", 65, "MsgBox Example")
